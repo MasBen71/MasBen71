@@ -19,8 +19,15 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Plotly | SQL | Jupyter Not
 
 ## Featured Projects
 
-- **SpaceX Falcon 9 Landing Prediction**  
-  Machine learning classification project for predicting first-stage landing success.
+### Amazon Business Intelligence & Revenue Forecasting
+End-to-end financial analytics project using Amazon segment data, Python, forecasting models, and a Streamlit dashboard.
+
+### SME Sales Analytics & Revenue Forecasting
+Business analytics project for small-business sales data, including KPIs, customer segmentation, forecasting, and dashboard reporting.
+
+### SpaceX Launch Success Prediction
+Machine learning project using public launch data to predict mission success.
+
 
 - **SpaceX Launch Site Visualization**  
   Interactive map-based visualization of launch sites using Python and Folium.
