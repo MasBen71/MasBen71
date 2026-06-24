@@ -50,7 +50,7 @@ I am currently building a professional data science portfolio focused on:
 ## Contact
 
 - Email: mas.elahian@gmail.com
-- LinkedIn: [My Linkedin](https://www.linkedin.com/company/130034171/admin/dashboard/)
+- [My Linkedin](https://www.linkedin.com/company/130034171/admin/dashboard/)
 
 ## Featured Projects
 1. Sales Performance Dashboard for SMEs
@@ -60,5 +60,5 @@ I am currently building a professional data science portfolio focused on:
 5. Interactive Data Visualization App
 
 ## Contact
-LinkedIn: [[My Linkedin](https://www.linkedin.com/company/130034171/admin/dashboard/)]
+[[LinkedIn Profile](https://www.linkedin.com/company/130034171/admin/dashboard/)]
 Email: [mas.elahian@gmail.com]
