@@ -1,11 +1,11 @@
 # Hi, I’m Masoud Elahian
 
-**Data Scientist | Physics PhD Researcher | Python, Dashboards, Automation & Machine Learning**
+**Data Scientist | Physics PhD Researcher | Founder of Xynara Analytics | Python, Dashboards, Automation & Machine Learning**
 
-I help small businesses and research-oriented teams turn messy data into clear insights, dashboards, predictive models, and practical decisions.
+I help businesses and research-oriented teams turn messy data into clear insights, dashboards, predictive models, and practical decisions.
 
 My work combines data science, business analytics, financial analysis, and scientific problem-solving.
-
+🌐 Founder of **Xynara Analytics**: https://xynaraanalytics.com
 ---
 
 ## What I Do
@@ -90,6 +90,9 @@ I am currently building a professional data science portfolio focused on:
 
 ## Contact
 
+## Contact
+
+- **Website:** [xynaraanalytics.com](https://xynaraanalytics.com)
 - **Email:** mas.elahian@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/company/130034171/admin/dashboard/)
+- **LinkedIn:** [Xynara Analytics](https://www.linkedin.com/company/130034171/)
 - **GitHub:** [github.com/MasBen71](https://github.com/MasBen71)
