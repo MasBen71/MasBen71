@@ -5,6 +5,7 @@
 I help businesses and research-oriented teams turn messy data into clear insights, dashboards, predictive models, and practical decisions.
 
 My work combines data science, business analytics, financial analysis, and scientific problem-solving.
+
 🌐 Founder of **Xynara Analytics**: https://xynaraanalytics.com
 ---
 
